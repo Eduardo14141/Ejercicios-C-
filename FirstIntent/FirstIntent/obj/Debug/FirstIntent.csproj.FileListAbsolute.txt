@@ -1,0 +1,7 @@
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\FirstIntent\FirstIntent\bin\Debug\FirstIntent.exe.config
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\FirstIntent\FirstIntent\bin\Debug\FirstIntent.exe
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\FirstIntent\FirstIntent\bin\Debug\FirstIntent.pdb
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\FirstIntent\FirstIntent\obj\Debug\FirstIntent.csprojAssemblyReference.cache
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\FirstIntent\FirstIntent\obj\Debug\FirstIntent.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\FirstIntent\FirstIntent\obj\Debug\FirstIntent.exe
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\FirstIntent\FirstIntent\obj\Debug\FirstIntent.pdb
