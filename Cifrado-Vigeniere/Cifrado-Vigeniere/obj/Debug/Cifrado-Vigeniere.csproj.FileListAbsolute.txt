@@ -1,0 +1,7 @@
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\Cifrado-Vigeniere\Cifrado-Vigeniere\bin\Debug\Cifrado-Vigeniere.exe.config
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\Cifrado-Vigeniere\Cifrado-Vigeniere\bin\Debug\Cifrado-Vigeniere.exe
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\Cifrado-Vigeniere\Cifrado-Vigeniere\bin\Debug\Cifrado-Vigeniere.pdb
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\Cifrado-Vigeniere\Cifrado-Vigeniere\obj\Debug\Cifrado-Vigeniere.csprojAssemblyReference.cache
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\Cifrado-Vigeniere\Cifrado-Vigeniere\obj\Debug\Cifrado-Vigeniere.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\Cifrado-Vigeniere\Cifrado-Vigeniere\obj\Debug\Cifrado-Vigeniere.exe
+C:\Users\Manager\Documents\Eduardo\Proyectos C#\Cifrado-Vigeniere\Cifrado-Vigeniere\obj\Debug\Cifrado-Vigeniere.pdb
